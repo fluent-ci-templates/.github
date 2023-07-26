@@ -1,4 +1,4 @@
-## 🌟 Welcome to the Fluent CI Community!
+## 🌟 Welcome to the Fluent CI GitHub Organization!
 
 We are a group of developers who are passionate about building a better CI/CD platform.
 
@@ -12,4 +12,4 @@ We are a group of developers who are passionate about building a better CI/CD pl
 ### 🧑‍🔬 Projects
 
 - [fluentci](https://github.com/fluent-ci-templates/fluentci) - The main repository for the Fluent CI CLI.
-- See the [Fluent CI Organization](https://github.com/fluent-ci-templates) for more projects.
+- See below for a list of our official templates.
