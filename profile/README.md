@@ -1,3 +1,8 @@
+<a href="https://fluentci.io" style="display: block;">
+<img src="./cover.png" style="height: 400px;" />
+</a>
+
+
 ## 🌟 Welcome to the Fluent CI GitHub Organization!
 
 We are a group of developers who are passionate about building a better CI/CD platform.
