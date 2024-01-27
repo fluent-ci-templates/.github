@@ -1,5 +1,5 @@
 <a href="https://fluentci.io" style="display: block;">
-<img src="https://cdn.jsdelivr.net/gh/fluent-ci-templates/.github@main/profile/cover.png" style="width: 100%;" />
+<img src="https://cdn.jsdelivr.net/gh/fluent-ci-templates/.github@main/assets/images/space_scene_space_landmarks_cartoon_style_d2095f4b-f819-466f-9da4-8c2ef6763684.png" style="width: 100%;" />
 </a>
 
 
